@@ -15,3 +15,9 @@ Device uing
 - Xiaomi 6X
 - Asus Zenfone Max Pro M1
 - MI8937 Redmi 3S,4A,5A
+
+Operating System
+- Windows 10 LTSC
+- Arch Linux
+- Android
+- Hackintosh
